@@ -1,2 +1,2 @@
-# Unsupervised Learning Final Assignment
-Assignment submitted to Coursera for fulfillment of requirements of Unsupervised Learning Course, August 2025
+# From Light to Structure
+Assignment submitted to Coursera for fulfillment of requirements of Coursera's Unsupervised Learning Course, August 2025
